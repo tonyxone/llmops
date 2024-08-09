@@ -1,0 +1,9 @@
+Flask==3.0.3
+flask_sqlalchemy==3.1.1
+flask_wtf==1.2.1
+injector==0.22.0
+openai==1.40.2
+pytest==7.4.4
+pytest.egg==info
+python-dotenv==1.0.1
+WTForms==3.1.2
