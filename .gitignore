@@ -1,4 +1,6 @@
 /.idea/
 /llmops-api/.idea/
 /llmops-api/env/
-
+/llmops-api/.env
+/llmops-api/temp/*
+/llmops-api/storage/*
